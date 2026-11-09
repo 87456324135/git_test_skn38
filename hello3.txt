@@ -1,1 +1,14 @@
-hello3
+안녕하세요 반가워요
+
+날씨가 춥네요
+
+git init
+
+git status
+git add . 
+git status
+
+git commit -m "첫 번째 파일"
+git branch -M main
+git remote add origin https://github.com/87456324135/git_test_skn38.git
+git push -u origin main
